@@ -13,6 +13,8 @@ Vinod Kumar Reddy(23110178)
 
 ### Steps to run :
 #### Clone the repo
-```git clone ```
+```git clone https://github.com/shryapatel91/DS_2024-25_WritingAssign.git ```  
 #### All dependencies are listed in `requirements.txt`.
 ``` pip install -r requirements.txt ```
+#### Run the Jupyter Notebook cells with proper imports. 
+#### All the plots and figures displayed have been saved in the corresponding folders which can be viewed in offline.
