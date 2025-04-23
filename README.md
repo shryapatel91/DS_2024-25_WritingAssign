@@ -1,4 +1,4 @@
-# DS_2024-25_WritingAssign  
+# DS_2024-25_WritingAssignment  
 
 
 ## Topic : World Inequality and How it has changed?  
