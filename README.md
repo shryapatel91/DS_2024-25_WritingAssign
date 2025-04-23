@@ -10,3 +10,7 @@ Divya Madineni (21110115)
 Shreya Patel (21110155)  
 Saumya Jaiswal (21110186)  
 Vinod Kumar Reddy(23110178)  
+
+
+### All dependencies are listed in `requirements.txt`.
+``` pip install -r requirements.txt ```
