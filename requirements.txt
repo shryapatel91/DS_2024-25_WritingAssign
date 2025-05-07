@@ -1,0 +1,11 @@
+streamlit
+plotly
+pandas
+nbformat
+notebook 
+jupyterlab 
+ipywidgets
+openpyxl
+statsmodels
+seaborn
+matplotlib
